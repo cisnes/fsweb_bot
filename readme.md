@@ -1,4 +1,4 @@
-# Tarkov API v2
+# FSWEB-BOT
 [![forthebadge](https://img.shields.io/badge/Approved%20by%20gutta%3F-Yes-brightgreen?style=for-the-badge)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![forthebadge](https://img.shields.io/badge/Ready%20for%20production%3F-No-darkred?style=for-the-badge)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)]()
