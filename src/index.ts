@@ -1,1 +1,3 @@
-console.log('We live.')
+import "reflect-metadata";
+
+console.log("We live.");
